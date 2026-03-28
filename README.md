@@ -8,7 +8,7 @@
 </picture>
 </a>
 
-[コード行数・PR数...それ、AIと"うまくやれてる"指標ですか？別のものさしを考えてみた](https://qiita.com/suruseas/items/1f4f701f439fded0cb40)
+[Stop Counting Prompts — Start Reflecting on AI Fluency](https://dev.to/suruseas/stop-counting-prompts-start-reflecting-on-ai-fluency-32n4)
 
 <a href="https://github.com/suruseas/ai-fluency/blob/main/output/profile.ja.md">
 <picture>
