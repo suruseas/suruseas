@@ -6,3 +6,5 @@
   <img src="https://raw.githubusercontent.com/suruseas/ai-fluency/main/output/card-light.svg" alt="AI Fluency">
 </picture>
 </a>
+
+[コード行数・PR数...それ、AIと"うまくやれてる"指標ですか？別のものさしを考えてみた](https://qiita.com/suruseas/items/1f4f701f439fded0cb40)
